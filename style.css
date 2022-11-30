@@ -1,0 +1,41 @@
+
+
+
+
+.title-red {
+    color: red;
+    background-color: darkolivegreen;
+    text-size-adjust: 200px;
+    
+  }
+  
+   .title-orange {
+    color:orange;
+  } 
+  
+  .title-green {
+    color: green;
+  } 
+  
+  .title-blue {
+    color: blue;
+  } 
+  
+  .foto1{
+    background-color: black;
+    
+  }
+  .foto2 {
+   background-color: blue;
+
+  }
+  .pacasa {
+    background-color: yellowgreen;
+    margin-top: 40px;
+    text-size-adjust: 400px;
+  }
+
+  .semifinal {
+    background-color: lightcoral;
+    
+  }
